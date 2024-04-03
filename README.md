@@ -11,7 +11,7 @@ EFI pronta para Hackintosh
 * OC: 0.9.9
 
 + EFI BASE - https://github.com/luchina-gabriel
-* My Thanks for all healp. https://www.youtube.com/@UniversoHackintosh
+* My Thanks for all help https://www.youtube.com/@UniversoHackintosh
 
 
 
