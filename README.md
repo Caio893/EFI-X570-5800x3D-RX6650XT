@@ -10,6 +10,8 @@ EFI pronta para Hackintosh
 * MacOS: Ventura 13.6.6 (testado)
 * OC: 0.9.9
 
++ EFI BASE - https://github.com/luchina-gabriel
+* My Thanks for all healp. https://www.youtube.com/@UniversoHackintosh
 
 
 
